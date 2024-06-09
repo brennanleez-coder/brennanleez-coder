@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @brennanleez-coder
+- Software Engineer
+- Open to work on any fun and or meaningful projects! 
