@@ -27,7 +27,8 @@ I’m a **Software Engineer** passionate about building things that matter and t
 </p>
 
 ## ⚡ Fun Projects I'm Proud Of
-- [🚶‍♂️ Frailty Vision (In Progress)](#)
+- Frailty Vision (In Progress)
+- Sentinel Sight , ApkSentinel
 - Bren-AI Introduce
 
 ## 🌐 Find Me On
