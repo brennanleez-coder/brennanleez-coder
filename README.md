@@ -7,7 +7,7 @@ I’m a **Software Engineer** passionate about building things that matter and t
 
 - 🔭 I’m currently working on [Frailty Assessments in Computer Vision](#)
 - 🌱 I’m learning **Web3** and **Advanced Computer Vision**
-- 💬 Ask me about **React, Tailwind, APIs, Solidity, CV Algorithms**
+- 💬 Ask me about **Distributed Systems, Computer Vision, React Variants**
 - 💡 Fun fact: I'm a coffee enthusiast and love experimenting with algorithms!
   
 ## 🛠️ Tech Stack
@@ -27,14 +27,13 @@ I’m a **Software Engineer** passionate about building things that matter and t
 </p>
 
 ## ⚡ Fun Projects I'm Proud Of
-- [🏆 DiceBattle: Blockchain Game](#)
-- [💡 Optical Flow Gait Analysis](#)
-- [🚶‍♂️ Real-time Frailty Assessment](#)
+- [🚶‍♂️ Frailty Vision (In Progress)](#)
+- Bren-AI Introduce
 
 ## 🌐 Find Me On
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brennanleez)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/brennanleez](https://www.linkedin.com/in/lee-chak-fai-brennan/))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/brennanleez-coder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brennanlee.vercel.app/)
 
 ## 📫 Let's Connect
 Feel free to reach out and collaborate! I'm always up for a conversation about tech, new projects, or anything interesting.
