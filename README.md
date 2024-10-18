@@ -8,7 +8,7 @@ I’m a **Software Engineer** passionate about building things that matter and t
 - 🔭 I’m currently working on [Frailty Assessments in Computer Vision](#)
 - 🌱 I’m learning **Web3** and **Advanced Computer Vision**
 - 💬 Ask me about **Distributed Systems, Computer Vision, React Variants**
-- 💡 Fun fact: I'm a coffee enthusiast and love experimenting with algorithms!
+- 💡 Fun fact: I'm a competitive Badminton Player! Accepting any challenges.
   
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
