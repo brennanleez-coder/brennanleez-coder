@@ -21,10 +21,7 @@ I’m a **Software Engineer** passionate about building things that matter and t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brennanleez-coder&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennanleez-coder&hide=html&langs_count=8&layout=compact&theme=radical"/>
-</p>
+<p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brennanleez-coder&theme=radical&hide_border=true" /> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brennanleez-coder&theme=radical" /> </p>
 
 ## ⚡ Fun Projects I'm Proud Of
 - Frailty Vision (In Progress)
