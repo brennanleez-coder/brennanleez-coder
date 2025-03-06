@@ -25,6 +25,7 @@ I’m a **Software Engineer** passionate about building things that matter and t
 
 ## ⚡ Fun Projects I'm Proud Of
 - TrailBlazerAI
+- Deucelog
 - Frailty Vision
 - Sentinel Sight & ApkSentinel
 
